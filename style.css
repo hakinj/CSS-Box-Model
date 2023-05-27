@@ -1,0 +1,62 @@
+.margin{
+    width: 500px;
+    height: 500px;
+    border-style: dashed;
+    margin: auto;
+    margin-top: 50px;
+    color: darkgray;
+    background-color: lightgray;
+}
+
+.margin > p{
+    text-align: center;
+    color: black;
+    font-size: 1.1em;
+}
+
+
+.border{
+    border: solid rgb(5, 153, 42);
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 15px;
+    background-color: rgb(5, 153, 42);
+}
+
+.border > p{
+    text-align: center;
+    color: black;
+    font-size: 1.1em;
+    
+}
+
+.padding{
+    border: solid lightgray;
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+.padding p{
+    text-align: center;
+    color: black;
+    font-size: 1.1em;
+}
+
+.content{
+    border-style: dashed;
+    color: darkgray;
+    width: 200px;
+    height: 180px;
+    margin: auto;
+    background-color: white;
+}
+
+.content p{
+    text-align: center;
+    margin-top: 80px;
+    
+
+}
