@@ -1,5 +1,5 @@
 .margin{
-    width: 500px;
+    width: 800px;
     height: 500px;
     border-style: dashed;
     margin: auto;
@@ -17,7 +17,7 @@
 
 .border{
     border: solid rgb(5, 153, 42);
-    width: 400px;
+    width: 700px;
     height: 400px;
     margin: auto;
     margin-top: 15px;
@@ -34,7 +34,7 @@
 .padding{
     border: solid lightgray;
     background-color: lightgray;
-    width: 300px;
+    width: 600px;
     height: 300px;
     margin: auto;
 }
@@ -48,7 +48,7 @@
 .content{
     border-style: dashed;
     color: darkgray;
-    width: 200px;
+    width: 500px;
     height: 180px;
     margin: auto;
     background-color: white;
